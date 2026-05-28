@@ -1,0 +1,32 @@
+aid: image-charts
+name: Image-Charts
+description: "Generate charts, QR codes and graph images"
+url: https://documentation.image-charts.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Image-Charts
+    description: "Generate charts, QR codes and graph images"
+    humanURL: https://documentation.image-charts.com/
+    baseURL: https://documentation.image-charts.com/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://documentation.image-charts.com/
+common:
+  - type: Website
+    url: https://documentation.image-charts.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://documentation.image-charts.com/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/image-charts-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/image-charts-domain-security.yml
   - type: Website
     url: https://documentation.image-charts.com/
   - type: PublicAPIsListing

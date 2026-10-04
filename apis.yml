@@ -39,7 +39,6 @@ apis:
   - name: Image-Charts
     description: "Generate charts, QR codes and graph images"
     humanURL: https://documentation.image-charts.com/
-    baseURL: https://documentation.image-charts.com/
     tags:
       - Development
     properties:

@@ -28,3 +28,45 @@
     builder: unknown (not in the directory record)
   status: not-a-workflow
   arazzo: null
+- slug: image-charts-apis-guru-openapi-directory
+  label: APIs.guru OpenAPI Directory
+  partner: apis-guru
+  partner_name: APIs.guru OpenAPI Directory
+  category: API definition directory listing (OpenAPI)
+  type: register
+  channel: standard-directory
+  evidence: https://apis.guru/
+  source: edge
+  relationship: standard-participant
+  contract_reference:
+    register: APIs.guru OpenAPI Directory
+    spec_file: null
+    standard: APIs.guru OpenAPI Directory
+    role: listed-in-directory
+    directory_provider: image-charts.com
+    matched_domain: image-charts.com
+    matched_by: domain
+    apis_listed: 1
+    version_count: 1
+    first_added: '2020-03-19'
+    last_updated: '2023-03-06'
+    origin_publisher_hosted: true
+    origin_hosts:
+    - image-charts.com
+    categories:
+    - media
+    own_openapi_files: 0
+    listings:
+    - key: image-charts.com
+      title: Image-Charts
+      preferred: 6.1.19
+      versions: 1
+      swagger_url: https://api.apis.guru/v2/specs/image-charts.com/6.1.19/swagger.json
+      origin_url: https://image-charts.com/swagger.json
+      openapi_version: '2.0'
+    signal_note: 'participation only: a community directory listing (APIs.guru collects definitions; the provider
+      did not file them). Signals: version_count, apis_listed, origin_publisher_hosted.'
+    detected_by: sweep-openapi-directory-apis-guru.py
+    detected: '2026-10-22'
+  status: not-a-workflow
+  arazzo: null
